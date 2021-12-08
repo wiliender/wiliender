@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Wiliender
 
-- 🌱 I’m currently learning React, Javascript and NodeJS
+- 🌱 I’m currently learning VueJS, Javascript and NodeJS
 
 ⚡ Fun fact:
 
