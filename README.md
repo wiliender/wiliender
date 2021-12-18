@@ -24,5 +24,6 @@
 <div> 
   <a target="_blank" href="https://www.instagram.com/wiliender_silva/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a target="_blank" href = "mailto:wiliendersilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/wiliender-silva-20177b148"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a target="_blank" href="https://www.linkedin.com/in/wiliender-silva-20177b148"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://wiliender.github.io/"><img width="111px" height="28px" src="https://camo.githubusercontent.com/e91800847abc13e51eee5febb7813f79c34223d6258dde3f0dc2684f75745ccf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3436613266312e7376673f267374796c653d666c61742d737175617265266c6f676f3d476f6f676c652d4368726f6d65266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f636172696e652e6465762f"></a>
 </div>
