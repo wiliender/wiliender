@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm <a target="_blank" href="https://wiliender.github.io/">Wiliender</a>
 
-- 🌱 I’m currently learning VueJS, Javascript and NodeJS
+- 🌱 I’m currently learning Golang, React, Javascript and NodeJS
 
 ⚡ Fun fact:
 
