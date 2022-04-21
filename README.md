@@ -7,9 +7,7 @@
 - 🎮 I love playing on my computer and traveling
 
  <div align="center">
-  <a href="https://github.com/wiliender">
-    <img alt="gh-top-langs" width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=wiliender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img alt="gh-top-langs" width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliender&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
+  <img alt="gh-top-langs" width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliender&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
  </div>
   
   
